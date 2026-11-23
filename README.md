@@ -1,2 +1,2 @@
-# monetra
-MONETRA – Personal Finance Management Platform
+# moniq
+MONIQ – Personal Finance Management Platform
